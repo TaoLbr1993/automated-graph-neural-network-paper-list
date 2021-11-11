@@ -9,3 +9,4 @@ This repository lists recent automated graph neural network papers
 6. **Design Space for Graph Neural Networks**. *Jiaxuan You, Zhitao Ying, Jure Leskovec*. In NeurIPS'20. [link](https://proceedings.neurips.cc/paper/2020/file/c5c3d4fe6b2cc463c7d7ecba17cc9de7-Paper.pdf)
 7. **AutoGEL: An Automated Graph Neural Network with Explicit Link Information**. *Zhili Wang, Shimin DI, Lei Chen*. In NeurIPS'21.
 8. **Search to aggregate neighborhood for graph neural network**. *Huan Zhao, Quanming Yao, Weiwei Tu*. In ICDE'21. [link](https://arxiv.org/pdf/2104.06608.pdf)
+9. **Policy-GNN: Aggregation Optimization for Graph Neural Networks**. *Kwei-Herng Lai, Daochen Zha, Kaixiong Zhou, Xia Hu*. In KDD'20. [link](https://dl.acm.org/doi/pdf/10.1145/3394486.3403088)
