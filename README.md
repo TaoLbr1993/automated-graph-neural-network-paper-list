@@ -11,4 +11,6 @@ This repository lists recent automated graph neural network papers
 8. **Simplifying Architecture Search for Graph Neural Network**. *Huan Zhao, Lanning Wei, Quanming Yao*. In CIKM Workshop'20. [link](http://ceur-ws.org/Vol-2699/paper08.pdf)
 9. **AutoGEL: An Automated Graph Neural Network with Explicit Link Information**. *Zhili Wang, Shimin DI, Lei Chen*. In NeurIPS'21.
 10. **Search to aggregate neighborhood for graph neural network**. *Huan Zhao, Quanming Yao, Weiwei Tu*. In ICDE'21. [link](https://arxiv.org/pdf/2104.06608.pdf)
+11. **Learning Graph Convolutional Network for Skeleton-Based Human Action Recognition by Neural Searching**. *Wei Peng, Xiaopeng Hong, Haoyu Chen, Guoying Zhao*. In AAAI'20. [link](https://ojs.aaai.org/index.php/AAAI/article/view/5652/5508)
+12. 
 
