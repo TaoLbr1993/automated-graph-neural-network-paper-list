@@ -1,5 +1,6 @@
 # automated-graph-neural-network-paper-list 
-This repository lists recent automated graph neural network papers
+This repository lists recent automated graph neural network papers.
+Welcome to recommend missing references!
 
 ## General Neural Architecture Search
 1. **GraphNAS: Graph Neural Architecture Search with Reinforcement Learning**. *Yang Gao, Hong Yang, Peng Zhang, Chuan Zhou, Yue Hu*. CoRR 2019. [link](https://arxiv.org/pdf/1904.09981.pdf)
@@ -17,6 +18,7 @@ This repository lists recent automated graph neural network papers
 1. **Policy-GNN: Aggregation Optimization for Graph Neural Networks**. *Kwei-Herng Lai, Daochen Zha, Kaixiong Zhou, Xia Hu*. In KDD'20. [link](https://dl.acm.org/doi/pdf/10.1145/3394486.3403088)
 2. **Simplifying Architecture Search for Graph Neural Network**. *Huan Zhao, Lanning Wei, Quanming Yao*. In CIKM Workshop'20. [link](http://ceur-ws.org/Vol-2699/paper08.pdf)
 3. **Search to aggregate neighborhood for graph neural network**. *Huan Zhao, Quanming Yao, Weiwei Tu*. In ICDE'21. [link](https://arxiv.org/pdf/2104.06608.pdf)
+4. **AutoAttend: Automated Attention Representation Search**. *Chaoyu Guan, Xin Wang, Wenwu Zhu*. In ICML'21. [link](http://proceedings.mlr.press/v139/guan21a/guan21a.pdf)
 
 ## GNN NAS Application
 1. **Learning Graph Convolutional Network for Skeleton-Based Human Action Recognition by Neural Searching**. *Wei Peng, Xiaopeng Hong, Haoyu Chen, Guoying Zhao*. In AAAI'20. [link](https://ojs.aaai.org/index.php/AAAI/article/view/5652/5508)
