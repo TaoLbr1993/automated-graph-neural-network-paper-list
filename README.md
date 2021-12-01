@@ -24,7 +24,6 @@ Welcome to recommend missing references!
 
 ## GNN NAS Application
 1. **Learning Graph Convolutional Network for Skeleton-Based Human Action Recognition by Neural Searching**. *Wei Peng, Xiaopeng Hong, Haoyu Chen, Guoying Zhao*. In AAAI'20. [link](https://ojs.aaai.org/index.php/AAAI/article/view/5652/5508)
-2. **
 
 ## GNN for NAS
 1. **Using Graph Convolution Network for Predicting Performance of Automatically Generated Convolution Neural Networks**. *Enzhi Zhang, Tomohiro Harada, R. Thawonmas*. In CSDE'19. [link](https://ieeexplore.ieee.org/document/9162354)
