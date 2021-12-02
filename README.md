@@ -28,3 +28,4 @@ Welcome to recommend missing references!
 ## GNN for NAS
 1. **Using Graph Convolution Network for Predicting Performance of Automatically Generated Convolution Neural Networks**. *Enzhi Zhang, Tomohiro Harada, R. Thawonmas*. In CSDE'19. [link](https://ieeexplore.ieee.org/document/9162354)
 2. **A Variational-Sequential Graph Autoencoder for Neural ArchitecturePerformance Prediction**. *David Friede, Jovita Lukasik, H. Stuckenschmidt, Margret Keuper*. CoRR 2019. [link](https://arxiv.org/pdf/1912.05317.pdf)
+3. **Neural Architecture Performance Prediction Using Graph Neural Networks**. *Jovita Lukasik, David Friede, H. Stuckenschmidt, Margret Keuper*. [link](https://arxiv.org/pdf/2010.10024.pdf)
